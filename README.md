@@ -6,7 +6,7 @@ In this project we tried to implement results of above paper named "ANN pump lif
 FFNN is used as ANN and LM algorithm is used to train neural network.
 To use LM algorithm pyrenn library is imported using pyrenn.py in repository.
 # Dataset
-Dataset consists of recordings of 4 bearings.
+Dataset consists of recordings of 4 bearings every 10 minutes.
 
 # Results
 This program shows RMS and Kurtosis graph for each bearing.
